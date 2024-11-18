@@ -4,7 +4,7 @@
 IES
 
 **Data Author**  
-Scott Makeig
+Scott Makeig  
 smakeig@ucsd.edu
 
 **Experimental Location**  
@@ -35,6 +35,6 @@ NOTE: Sub22 was a repeat subject, hence was removed from the dataset.
 https://www.sciencedirect.com/science/article/pii/S1053811922000039?via%3Dihub#ack0001
 
 
-**Contact Person**
-Scott Makeig
+**Contact Person**  
+Scott Makeig  
 smakeig@ucsd.edu
