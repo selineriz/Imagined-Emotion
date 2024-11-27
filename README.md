@@ -1,24 +1,22 @@
-# eegnet_ies
+# Imagined Emotion Study  
 
-**Project ID**  
-IES
 
 **Data Author**  
-Scott Makeig  
-smakeig@ucsd.edu
+Scott Makeig   
+smakeig@ucsd.edu  
 
-**Experimental Location**  
-UCSD
+**Experimental Location**   
+UCSD  
 
 
  **Paradigm:**    
-The study uses the method of guided imagery to induce resting, eyes-closed participants using voice-guided imagination to enter distinct 15 emotion states during acquisition of high-density EEG data.
+The study uses the method of guided imagery to induce resting, eyes-closed participants using voice-guided imagination to enter distinct 15 emotion states during acquisition of high-density EEG data.  
 
-During the study, participants listen to 15 voice recordings that each suggest imagining a scenario in which they have experienced -- or would experience the named target emotion. Some target emotions have positive valence (e.g., joy, happiness), others negative valence (e.g., sadness, anger). Before and between the 15 emotion imagination periods, participants hear relaxation suggestions ('Now return to a neutral state by ...').
+During the study, participants listen to 15 voice recordings that each suggest imagining a scenario in which they have experienced -- or would experience the named target emotion. Some target emotions have positive valence (e.g., joy, happiness), others negative valence (e.g., sadness, anger). Before and between the 15 emotion imagination periods, participants hear relaxation suggestions ('Now return to a neutral state by ...').  
 
 
 **Task Description:**   
-When the participant first begins to feel the target emotion, they are asked to indicate this by pressing a handheld button. Participants are asked to continue feeling the emotion as long as possible. To intensify and lengthen the periods of experienced emotion, participants are asked to interoceptively perceive and attend relevant somatosensory sensations. When the target feeling wanes (typically after 1 and 5 minutes), participants push the button again to leave the emotion imagination period and cue the relaxation instructions.
+When the participant first begins to feel the target emotion, they are asked to indicate this by pressing a handheld button. Participants are asked to continue feeling the emotion as long as possible. To intensify and lengthen the periods of experienced emotion, participants are asked to interoceptively perceive and attend relevant somatosensory sensations. When the target feeling wanes (typically after 1 and 5 minutes), participants push the button again to leave the emotion imagination period and cue the relaxation instructions.  
 
 
 **Participant Categories**  
