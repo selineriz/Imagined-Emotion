@@ -32,7 +32,7 @@ NOTE: Sub22 was a repeat subject, hence was removed from the dataset.
 **Publication**    
 https://www.sciencedirect.com/science/article/pii/S1053811922000039?via%3Dihub#ack0001  
 
-**Data**
+**Data**  
 https://openneuro.org/datasets/ds003004/versions/1.1.1  
 
 
